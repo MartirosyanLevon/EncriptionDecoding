@@ -1,0 +1,7 @@
+C:\Users\mrlma\source\repos\EncriptionDecoding\EncriptionDecoding\bin\Debug\EncriptionDecoding.exe.config
+C:\Users\mrlma\source\repos\EncriptionDecoding\EncriptionDecoding\bin\Debug\EncriptionDecoding.exe
+C:\Users\mrlma\source\repos\EncriptionDecoding\EncriptionDecoding\bin\Debug\EncriptionDecoding.pdb
+C:\Users\mrlma\source\repos\EncriptionDecoding\EncriptionDecoding\obj\Debug\EncriptionDecoding.csprojAssemblyReference.cache
+C:\Users\mrlma\source\repos\EncriptionDecoding\EncriptionDecoding\obj\Debug\EncriptionDecoding.csproj.CoreCompileInputs.cache
+C:\Users\mrlma\source\repos\EncriptionDecoding\EncriptionDecoding\obj\Debug\EncriptionDecoding.exe
+C:\Users\mrlma\source\repos\EncriptionDecoding\EncriptionDecoding\obj\Debug\EncriptionDecoding.pdb
